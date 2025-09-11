@@ -1,0 +1,21 @@
+</div>
+
+<style>
+    .user-cards-row {
+        display: flex;
+        gap: 24px;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin: 18px auto;
+        width: 100%;
+    }
+</style>
+@model IEnumerable<UserInfo>
+
+<div class="user-cards-row">
+    @foreach (var user in Model)
+    {
+        <partial name="_UserCard" model="user" />
+    }
+</div>
+

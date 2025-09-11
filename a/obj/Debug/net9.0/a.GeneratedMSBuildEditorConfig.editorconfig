@@ -32,6 +32,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/jakubvirlic/Documents/GitHub/virlic_dotnet/a/Views/Shared/_UserCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Vc2VyQ2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/jakubvirlic/Documents/GitHub/virlic_dotnet/a/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -42,6 +46,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/jakubvirlic/Documents/GitHub/virlic_dotnet/a/Views/ulohy/uloha2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvdWxvaHkvdWxvaGEyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jakubvirlic/Documents/GitHub/virlic_dotnet/a/Views/ulohy/uloha3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvdWxvaHkvdWxvaGEzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jakubvirlic/Documents/GitHub/virlic_dotnet/a/Views/ulohy/uloha4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvdWxvaHkvdWxvaGE0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jakubvirlic/Documents/GitHub/virlic_dotnet/a/Views/ulohy/uloha5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvdWxvaHkvdWxvaGE1LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/jakubvirlic/Documents/GitHub/virlic_dotnet/a/Views/_ViewImports.cshtml]

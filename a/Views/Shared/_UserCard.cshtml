@@ -1,0 +1,50 @@
+
+@model UserInfo
+<div class="user-card">
+    <img src="/images/6876993a25a8fc274cc09aee12171034.jpg" alt="User photo" class="user-photo" />
+    <div class="user-info">
+        <h1 class="user-name">@Model.Name</h1>
+        <h5 class="user-email">@Model.Email</h5>
+    </div>
+</div>
+
+<style>
+    .user-card {
+        display: flex;
+        align-items: center;
+        background: #fff;
+        box-shadow: 0 4px 16px rgba(0,0,0,0.10);
+        border-radius: 10px;
+        padding: 18px 24px;
+        max-width: 400px;
+        margin: 18px auto;
+    }
+    .user-photo {
+        width: 80px;
+        height: 80px;
+        object-fit: cover;
+        border-radius: 50%;
+        border: 2px solid #111;
+        margin-right: 24px;
+        background: #fff;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        display: block;
+    }
+    .user-info {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .user-name {
+        margin: 0;
+        font-size: 1.4rem;
+        font-weight: 600;
+    }
+    .user-email {
+        margin: 4px 0 0 0;
+        color: #aaa;
+        font-size: 1rem;
+        font-weight: 400;
+    }
+</style>
+
